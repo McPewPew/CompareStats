@@ -1,3 +1,3 @@
-Download this file instead of clicking "Code" like you normally would -   
-https://github.com/McPewPew/Compare-Stats/releases/download/Release/CompareStats.zip  
-Just unzip it to your Interface/Addons folder, no need to rename anything.
+CompareStats for 1.12 - Determine the overall stat changes a piece of equipment will have before equipping it.
+
+Bonus Scanner version changed to the VanillaRatingBuster version - https://github.com/kxseven/VanillaRatingBuster?tab=readme-ov-file
